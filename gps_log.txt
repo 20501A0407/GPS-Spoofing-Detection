@@ -1,0 +1,2 @@
+[2025-04-02 14:53:03] Signal: {'timestamp': 1712048400, 'latitude': 37.7749, 'longitude': -122.4194, 'altitude': 30.0} | Verified: True
+[2025-04-02 14:53:03] Signal: {'timestamp': 1712048400, 'latitude': 35.6895, 'longitude': 139.6917, 'altitude': 50.0} | Verified: False
