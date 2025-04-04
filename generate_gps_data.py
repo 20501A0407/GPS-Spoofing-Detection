@@ -39,8 +39,8 @@ def generate_random_gps_data(is_spoofed=False):
         "altitude": base_alt + alt_jitter,
     }
 
-# Generate and Log GPS Data
-for _ in range(100):  # Increased from 10 to 100 samples
+# Generate & Log GPS Data
+for _ in range(100):  # 10 to 100 samples
     log_event_db(generate_random_gps_data(is_spoofed=False), True)
     log_event_db(generate_random_gps_data(is_spoofed=True), False)
 
