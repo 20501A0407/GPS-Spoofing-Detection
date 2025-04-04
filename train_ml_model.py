@@ -19,7 +19,7 @@ def load_data():
     
     return X, y
 
-# Load and preprocess data
+# Load & preprocess data
 X, y = load_data()
 scaler = StandardScaler()
 X = scaler.fit_transform(X)
