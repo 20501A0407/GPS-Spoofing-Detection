@@ -1,17 +1,17 @@
-# 📡 GPS Spoofing Detection System  
+📡 GPS Spoofing Detection System  
 
 A **real-time GPS spoofing detection** system using **machine learning, cryptographic authentication, and map visualization**.  
 
-## 🚀 Features  
-✅ **ML-based Spoofing Detection** – Detects fraudulent GPS signals with high accuracy.  
-✅ **Cryptographic Authentication** – Uses digital signatures to verify GPS data integrity.  
-✅ **Real-time GPS Tracking** – Visualizes signals on an interactive **map** using Folium.  
-✅ **Data Logging** – Stores all signals in an SQLite database for analysis.  
-✅ **User-friendly GUI** – Built with Tkinter for easy interaction.  
+Features  
+ *ML-based Spoofing Detection** – Detects fraudulent GPS signals with high accuracy.  
+ *Cryptographic Authentication** – Uses digital signatures to verify GPS data integrity.  
+ *Real-time GPS Tracking** – Visualizes signals on an interactive **map** using Folium.  
+ *Data Logging** – Stores all signals in an SQLite database for analysis.  
+ *User-friendly GUI** – Built with Tkinter for easy interaction.  
 
-## 🛠️ Installation  
+🛠️ Installation  
 
-### **1️⃣ Clone Repository**  
+**1️⃣ Clone Repository**  
 ```sh
 git clone https://github.com/20501A0407/GPS-Spoofing-Detection.git
 cd GPS-Spoofing-Detection
